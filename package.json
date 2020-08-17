@@ -1,0 +1,19 @@
+{
+  "name": "ad_web",
+  "version": "1.0.0",
+  "description": "Advance your journey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llllllllyh/AD_web.git"
+  },
+  "author": "lyh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llllllllyh/AD_web/issues"
+  },
+  "homepage": "https://github.com/llllllllyh/AD_web#readme"
+}
